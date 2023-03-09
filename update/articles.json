@@ -94,16 +94,16 @@
     ],
     "links": [
       {
-        "name": "tabnews",
-        "link": "https://www.tabnews.com.br/lucasvtiradentes/extensao-modifique-os-sites-que-voce-mais-usa-facilmente"
-      },
-      {
         "name": "medium",
         "link": "https://medium.com/@lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-bacf59b1977f"
       },
       {
         "name": "dev",
         "link": "https://dev.to/lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-2hgf"
+      },
+      {
+        "name": "tabnews",
+        "link": "https://www.tabnews.com.br/lucasvtiradentes/extensao-modifique-os-sites-que-voce-mais-usa-facilmente"
       }
     ]
   }
