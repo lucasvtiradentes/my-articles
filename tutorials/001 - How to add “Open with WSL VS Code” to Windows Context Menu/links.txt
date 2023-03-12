@@ -1,2 +1,0 @@
-- date: 07-27-2020
-- medium: https://medium.com/@lucasvtiradentes/how-to-add-open-with-wsl-vs-code-to-windows-context-menu-5773156ba213

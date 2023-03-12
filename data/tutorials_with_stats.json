@@ -1,0 +1,157 @@
+[
+  {
+    "index": "001",
+    "category": "DEVELOPMENT SETUP",
+    "title": "How to add “Open with WSL VS Code” to Windows Context Menu",
+    "motivation": "This is great for open the vscode in the folder you want directly, without having to use commands such as 'cd'.",
+    "date": "07-27-2020",
+    "tech": [
+      "windows",
+      "vscode"
+    ],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/@lucasvtiradentes/how-to-add-open-with-wsl-vs-code-to-windows-context-menu-5773156ba213",
+        "likes": 56,
+        "comments": 2
+      },
+      {
+        "name": "dev",
+        "link": "https://dev.to/lucasvtiradentes/how-to-add-open-with-wsl-vs-code-to-windows-context-menu-3f8b",
+        "likes": 1,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "index": "002",
+    "category": "DEVELOPMENT SETUP",
+    "title": "How to add a .bashrc equivalent to the windows cmd terminal",
+    "motivation": "This is useful to set your custom commands and functions and load them right away, instead of manually loading them.",
+    "date": "07-27-2020",
+    "tech": [
+      "windows"
+    ],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/@lucasvtiradentes/how-to-add-a-bashrc-equivalent-to-the-windows-cmd-terminal-57576404fe8f",
+        "likes": 50,
+        "comments": 0
+      },
+      {
+        "name": "dev",
+        "link": "https://dev.to/lucasvtiradentes/how-to-add-a-bashrc-equivalent-to-the-windows-cmd-terminal-3e97",
+        "likes": 4,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "index": "003",
+    "category": "DEVELOPMENT SETUP",
+    "title": "How to add “Open with Windows Terminal” option to the context menu",
+    "motivation": "This is great for open the terminal in the folder you want directly, without having to use commands such as 'cd'.",
+    "date": "07-28-2020",
+    "tech": [
+      "windows",
+      "windows_terminal"
+    ],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/@lucasvtiradentes/how-to-add-open-with-windows-terminal-option-to-the-context-menu-c69930294ece",
+        "likes": 4,
+        "comments": 0
+      },
+      {
+        "name": "dev",
+        "link": "https://dev.to/lucasvtiradentes/how-to-add-open-with-windows-terminal-option-to-the-context-menu-4eig",
+        "likes": 0,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "index": "004",
+    "category": "DEVELOPMENT SETUP",
+    "title": "How to set .env variables to Heroku dynamically with a .sh script",
+    "motivation": "This is very useful when your repository has a lot of changes in .env variables, so you dont need to update them manualy in heroku.",
+    "date": "07-28-2020",
+    "tech": [
+      "heroku",
+      "bash"
+    ],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/@lucasvtiradentes/how-to-set-env-variables-to-heroku-dynamically-with-a-sh-script-88dd40c6ec4d",
+        "likes": 34,
+        "comments": 0
+      },
+      {
+        "name": "dev",
+        "link": "https://dev.to/lucasvtiradentes/how-to-set-env-variables-to-heroku-dynamically-with-a-sh-script-dfg",
+        "likes": 1,
+        "comments": 0
+      }
+    ]
+  },
+  {
+    "index": "005",
+    "category": "DEVELOPMENT TIPS",
+    "title": "Easily modify your most used websites with this extension",
+    "motivation": "Change your most used websites to make then look as you wish.",
+    "date": "03-09-2023",
+    "tech": [
+      "google_chrome",
+      "javascript"
+    ],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/@lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-bacf59b1977f",
+        "likes": 4,
+        "comments": 1
+      },
+      {
+        "name": "dev",
+        "link": "https://dev.to/lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-2hgf",
+        "likes": 1,
+        "comments": 1
+      },
+      {
+        "name": "tabnews",
+        "link": "https://www.tabnews.com.br/lucasvtiradentes/extensao-modifique-os-sites-que-voce-mais-usa-facilmente",
+        "likes": 2,
+        "comments": 6
+      }
+    ]
+  },
+  {
+    "index": "006",
+    "category": "DEVELOPMENT TIPS",
+    "title": "How to easily manage your boilerplates and quickstart your projects",
+    "motivation": "It is a tool for not spend precious time configuring your next project.",
+    "date": "03-12-2023",
+    "tech": [
+      "nodejs",
+      "npm"
+    ],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/@lucasvtiradentes/how-to-easily-manage-your-boilerplates-and-quickstart-your-projects-b0d09d27640b",
+        "likes": 0,
+        "comments": 0
+      },
+      {
+        "name": "dev",
+        "link": "https://dev.to/lucasvtiradentes/how-to-easily-manage-your-boilerplates-and-quickstart-your-projects-4g04",
+        "likes": 0,
+        "comments": 0
+      }
+    ]
+  }
+]
