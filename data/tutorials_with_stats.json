@@ -168,12 +168,18 @@
       {
         "name": "medium",
         "link": "https://medium.com/@lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-8d239afcea25",
-        "likes": 0,
+        "likes": 2,
         "comments": 0
       },
       {
         "name": "dev",
         "link": "https://dev.to/lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-3862",
+        "likes": 3,
+        "comments": 0
+      },
+      {
+        "name": "tabnews",
+        "link": "https://www.tabnews.com.br/lucasvtiradentes/sincroniza-seus-commits-do-github-no-google-calendar",
         "likes": 0,
         "comments": 0
       }
