@@ -27,7 +27,7 @@
 
     editGithubNavBar(PROFILE_NAME)
 
-    if ( urlPath === `/${PROFILE_NAME}?tab=repositories`){
+    if ( urlPath === "/lucasvtiradentes?tab=repositories"){
       markPrivateRepos()
     } else if ( urlPath === "/settings/profile" ){
       setTimeout(() => editGithubNavBar(PROFILE_NAME), 1500)
@@ -74,7 +74,7 @@
     const headerEl = document.querySelector('#global-nav')
     const elItems = headerEl.querySelectorAll('a')
 
-    if ([7, 9].includes(Array.from(elItems).length) === false){
+    if ([9].includes(Array.from(elItems).length) === false){
       setTimeout(editGithubNavBar, 500)
       return
     }

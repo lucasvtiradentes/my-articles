@@ -2,9 +2,9 @@
 
 <h3 align="center">
 <!-- <DYNFIELD:ARTICLES_COUNT> -->
-  <p>TUTORIALS (6/6)</p>
+  <p>TUTORIALS (7/7)</p>
   <p>
-    <img src="https://img.shields.io/badge/⭐%20167-black?logoColor=white">
+    <img src="https://img.shields.io/badge/⭐%20172-black?logoColor=white">
     <img src="https://img.shields.io/badge/💬%2010-black?logoColor=white">
   </p>
 <!-- </DYNFIELD:ARTICLES_COUNT> -->
@@ -28,7 +28,7 @@
 <!-- <DYNFIELD:DEVELOPMENT_TIPS_COUNT> -->
 <a href="#development-tips">
   &nbsp;•&nbsp;
-  dev tips (2)
+  dev tips (3)
 </a>
 <!-- </DYNFIELD:DEVELOPMENT_TIPS_COUNT> -->
 
@@ -58,15 +58,43 @@
 </p>
 
 <details>
+  <summary align="center"><span>see <b>articles by category</b></span></summary>
+  <p align="center">
+    <!-- <DYNFIELD:TOC_ARTICLES_BY_CATEGORY> -->
+    <ul>
+      <li>
+        <a href="#development-setup">DEVELOPMENT SETUP (4)</a>
+        <ul>
+          <li><a href="#001">How to add “Open with WSL VS Code” to Windows Context Menu</a></li>
+          <li><a href="#002">How to add a .bashrc equivalent to the windows cmd terminal</a></li>
+          <li><a href="#003">How to add “Open with Windows Terminal” option to the context menu</a></li>
+          <li><a href="#004">How to set .env variables to Heroku dynamically with a .sh script</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#development-tips">DEVELOPMENT TIPS (3)</a>
+        <ul>
+          <li><a href="#005">Easily modify your most used websites with this extension</a></li>
+          <li><a href="#006">How to easily manage your boilerplates and quickstart your projects</a></li>
+          <li><a href="#007">Add an one way sync from ticktick and github to google calendar</a></li>
+        </ul>
+      </li>
+    </ul>
+    <!-- </DYNFIELD:TOC_ARTICLES_BY_CATEGORY> -->
+  </p>
+</details>
+
+<details>
   <summary align="center"><span>see <b>articles by year</b></span></summary>
   <p align="center">
     <!-- <DYNFIELD:TOC_ARTICLES_BY_DATE> -->
     <ul>
       <li>
-        <p>2023 (2)</p>
+        <p>2023 (3)</p>
         <ul>
           <li><a href="#005">Easily modify your most used websites with this extension</a></li>
           <li><a href="#006">How to easily manage your boilerplates and quickstart your projects</a></li>
+          <li><a href="#007">Add an one way sync from ticktick and github to google calendar</a></li>
         </ul>
       </li>
       <li>
@@ -84,32 +112,6 @@
 </details>
 
 <details>
-  <summary align="center"><span>see <b>articles by category</b></span></summary>
-  <p align="center">
-    <!-- <DYNFIELD:TOC_ARTICLES_BY_CATEGORY> -->
-    <ul>
-      <li>
-        <a href="#development-setup">DEVELOPMENT SETUP (4)</a>
-        <ul>
-          <li><a href="#001">How to add “Open with WSL VS Code” to Windows Context Menu</a></li>
-          <li><a href="#002">How to add a .bashrc equivalent to the windows cmd terminal</a></li>
-          <li><a href="#003">How to add “Open with Windows Terminal” option to the context menu</a></li>
-          <li><a href="#004">How to set .env variables to Heroku dynamically with a .sh script</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="#development-tips">DEVELOPMENT TIPS (2)</a>
-        <ul>
-          <li><a href="#005">Easily modify your most used websites with this extension</a></li>
-          <li><a href="#006">How to easily manage your boilerplates and quickstart your projects</a></li>
-        </ul>
-      </li>
-    </ul>
-    <!-- </DYNFIELD:TOC_ARTICLES_BY_CATEGORY> -->
-  </p>
-</details>
-
-<details>
   <summary align="center"><span>see <b>articles by tech</b></span></summary>
   <p align="center">
     <!-- <DYNFIELD:TOC_ARTICLES_BY_TECH> -->
@@ -120,6 +122,13 @@
           <li><a href="#001">How to add “Open with WSL VS Code” to Windows Context Menu</a></li>
           <li><a href="#002">How to add a .bashrc equivalent to the windows cmd terminal</a></li>
           <li><a href="#003">How to add “Open with Windows Terminal” option to the context menu</a></li>
+        </ul>
+      </li>
+      <li>
+        <p>npm (2)</p>
+        <ul>
+          <li><a href="#006">How to easily manage your boilerplates and quickstart your projects</a></li>
+          <li><a href="#007">Add an one way sync from ticktick and github to google calendar</a></li>
         </ul>
       </li>
       <li>
@@ -165,9 +174,9 @@
         </ul>
       </li>
       <li>
-        <p>npm (1)</p>
+        <p>google_apps_script (1)</p>
         <ul>
-          <li><a href="#006">How to easily manage your boilerplates and quickstart your projects</a></li>
+          <li><a href="#007">Add an one way sync from ticktick and github to google calendar</a></li>
         </ul>
       </li>
     </ul>
@@ -177,7 +186,7 @@
 
 <div align="center">
 <!-- <DYNFIELD:LAST_UPDATE> -->
-<p>last updated time: 13/03/2023 07:41:50</p>
+<p>last updated time: 15/03/2023 10:58:30</p>
 <!-- </DYNFIELD:LAST_UPDATE> -->
 </div>
 
@@ -200,7 +209,7 @@
       <img src="https://img.shields.io/badge/⭐%2057-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%202-black?logoColor=white">
     </td>
-    <td align="center">      
+    <td align="center">
       <p><a name="001" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/001%20-%20How%20to%20add%20%E2%80%9COpen%20with%20WSL%20VS%20Code%E2%80%9D%20to%20Windows%20Context%20Menu#TOC">How to add “Open with WSL VS Code” to Windows Context Menu</a></p>
       <a target="_blank" href="https://medium.com/@lucasvtiradentes/how-to-add-open-with-wsl-vs-code-to-windows-context-menu-5773156ba213"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
       <a target="_blank" href="https://dev.to/lucasvtiradentes/how-to-add-open-with-wsl-vs-code-to-windows-context-menu-3f8b"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
@@ -217,7 +226,7 @@
       <img src="https://img.shields.io/badge/⭐%2054-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
     </td>
-    <td align="center">      
+    <td align="center">
       <p><a name="002" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/002%20-%20How%20to%20add%20a%20.bashrc%20equivalent%20to%20the%20windows%20cmd%20terminal#TOC">How to add a .bashrc equivalent to the windows cmd terminal</a></p>
       <a target="_blank" href="https://medium.com/@lucasvtiradentes/how-to-add-a-bashrc-equivalent-to-the-windows-cmd-terminal-57576404fe8f"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
       <a target="_blank" href="https://dev.to/lucasvtiradentes/how-to-add-a-bashrc-equivalent-to-the-windows-cmd-terminal-3e97"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
@@ -233,7 +242,7 @@
       <img src="https://img.shields.io/badge/⭐%204-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
     </td>
-    <td align="center">      
+    <td align="center">
       <p><a name="003" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/003%20-%20How%20to%20add%20%E2%80%9COpen%20with%20Windows%20Terminal%E2%80%9D%20option%20to%20the%20context%20menu#TOC">How to add “Open with Windows Terminal” option to the context menu</a></p>
       <a target="_blank" href="https://medium.com/@lucasvtiradentes/how-to-add-open-with-windows-terminal-option-to-the-context-menu-c69930294ece"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
       <a target="_blank" href="https://dev.to/lucasvtiradentes/how-to-add-open-with-windows-terminal-option-to-the-context-menu-4eig"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
@@ -250,7 +259,7 @@
       <img src="https://img.shields.io/badge/⭐%2035-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
     </td>
-    <td align="center">      
+    <td align="center">
       <p><a name="004" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/004%20-%20How%20to%20set%20.env%20variables%20to%20Heroku%20dynamically%20with%20a%20.sh%20script#TOC">How to set .env variables to Heroku dynamically with a .sh script</a></p>
       <a target="_blank" href="https://medium.com/@lucasvtiradentes/how-to-set-env-variables-to-heroku-dynamically-with-a-sh-script-88dd40c6ec4d"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
       <a target="_blank" href="https://dev.to/lucasvtiradentes/how-to-set-env-variables-to-heroku-dynamically-with-a-sh-script-dfg"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
@@ -288,7 +297,7 @@
       <img src="https://img.shields.io/badge/⭐%207-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%208-black?logoColor=white">
     </td>
-    <td align="center">      
+    <td align="center">
       <p><a name="005" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/005%20-%20Easily%20modify%20your%20most%20used%20websites%20with%20this%20extension#TOC">Easily modify your most used websites with this extension</a></p>
       <a target="_blank" href="https://medium.com/@lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-bacf59b1977f"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
       <a target="_blank" href="https://dev.to/lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-2hgf"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
@@ -306,7 +315,7 @@
       <img src="https://img.shields.io/badge/⭐%2010-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
     </td>
-    <td align="center">      
+    <td align="center">
       <p><a name="006" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/006%20-%20How%20to%20easily%20manage%20your%20boilerplates%20and%20quickstart%20your%20projects#TOC">How to easily manage your boilerplates and quickstart your projects</a></p>
       <a target="_blank" href="https://medium.com/@lucasvtiradentes/how-to-easily-manage-your-boilerplates-and-quickstart-your-projects-b0d09d27640b"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
       <a target="_blank" href="https://dev.to/lucasvtiradentes/how-to-easily-manage-your-boilerplates-and-quickstart-your-projects-4g04"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
@@ -314,6 +323,22 @@
     <td align="left">It is a tool for not spend precious time configuring your next project.</td>
     <td align="center">
       <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-%2320232a.svg?logo=npm&logoColor=%white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <p>03-14-2023</p>
+      <img src="https://img.shields.io/badge/⭐%205-black?logoColor=white">
+      <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
+    </td>
+    <td align="center">
+      <p><a name="007" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/007%20-%20Add%20an%20one%20way%20sync%20from%20ticktick%20and%20github%20to%20google%20calendar#TOC">Add an one way sync from ticktick and github to google calendar</a></p>
+      <a target="_blank" href="https://medium.com/@lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-8d239afcea25"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
+      <a target="_blank" href="https://dev.to/lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-3862"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
+    </td>
+    <td align="left">Track your overall progress with google calendar.</td>
+    <td align="center">
       <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-%2320232a.svg?logo=npm&logoColor=%white"></a>
     </td>
   </tr>

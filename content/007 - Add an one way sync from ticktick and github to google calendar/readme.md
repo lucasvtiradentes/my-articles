@@ -33,6 +33,6 @@ This project was really helped me to track my progress and makes me feel good ab
 
 ## Related
 
-👉 If you want to check the repository source code, it is [here](https://github.com/lucasvtiradentes/gcal-sync/)
-👉 See also all [my projects](https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC)
-👉 See also all [my tutorials](https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC)
+👉 If you want to check the repository source code, it is [here](https://github.com/lucasvtiradentes/gcal-sync/)<br>
+👉 See also all [my projects](https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC)<br>
+👉 See also all [my tutorials](https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC)<br>

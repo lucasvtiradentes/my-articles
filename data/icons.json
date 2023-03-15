@@ -158,5 +158,10 @@
     "name": "google_chrome",
     "image": "https://img.shields.io/badge/google%20chrome-%2320232a.svg?logo=googlechrome&logoColor=%white",
     "default_link": "https://www.google.com/chrome/?brand=BNSD&gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc7KsHWqP0koC5fsuJCrcrPDpQ8FKRTNYUyIJ6B8MvZ-IO3P3540kNQaAvkKEALw_wcB&gclsrc=aw.ds"
+  },
+  {
+    "name": "apps_script",
+    "image": "https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white",
+    "default_link": "https://www.google.com/script/start/"
   }
 ]
