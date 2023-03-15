@@ -127,5 +127,26 @@
         "link": "https://dev.to/lucasvtiradentes/how-to-easily-manage-your-boilerplates-and-quickstart-your-projects-4g04"
       }
     ]
+  },
+  {
+    "index": "007",
+    "category": "DEVELOPMENT TIPS",
+    "title": "Add an one way sync from ticktick and github to google calendar",
+    "motivation": "Track your overall progress with google calendar.",
+    "date": "03-14-2023",
+    "tech": [
+      "google_apps_script",
+      "npm"
+    ],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/@lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-8d239afcea25"
+      },
+      {
+        "name": "dev",
+        "link": "https://dev.to/lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-3862"
+      }
+    ]
   }
 ]
