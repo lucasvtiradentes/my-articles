@@ -4,8 +4,8 @@
 <!-- <DYNFIELD:ARTICLES_COUNT> -->
   <p>TUTORIALS (7/7)</p>
   <p>
-    <img src="https://img.shields.io/badge/⭐%20176-black?logoColor=white">
-    <img src="https://img.shields.io/badge/💬%2010-black?logoColor=white">
+    <img src="https://img.shields.io/badge/⭐%20177-black?logoColor=white">
+    <img src="https://img.shields.io/badge/💬%2011-black?logoColor=white">
   </p>
 <!-- </DYNFIELD:ARTICLES_COUNT> -->
 </h3>
@@ -188,7 +188,7 @@
 
 <div align="center">
 <!-- <DYNFIELD:LAST_UPDATE> -->
-<p>last updated time: 18/03/2023 11:52:29</p>
+<p>last updated time: 18/03/2023 14:25:20</p>
 <!-- </DYNFIELD:LAST_UPDATE> -->
 </div>
 
@@ -314,8 +314,8 @@
   <tr>
     <td align="center" width="150">
       <p>03-14-2023</p>
-      <img src="https://img.shields.io/badge/⭐%206-black?logoColor=white">
-      <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
+      <img src="https://img.shields.io/badge/⭐%207-black?logoColor=white">
+      <img src="https://img.shields.io/badge/💬%201-black?logoColor=white">
     </td>
     <td align="center">      
       <p><a name="007" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/007%20-%20Add%20an%20one%20way%20sync%20from%20ticktick%20and%20github%20to%20google%20calendar#TOC">Add an one way sync from ticktick and github to google calendar</a></p>
