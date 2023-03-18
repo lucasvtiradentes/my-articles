@@ -4,7 +4,7 @@
 <!-- <DYNFIELD:ARTICLES_COUNT> -->
   <p>TUTORIALS (7/7)</p>
   <p>
-    <img src="https://img.shields.io/badge/⭐%20175-black?logoColor=white">
+    <img src="https://img.shields.io/badge/⭐%20176-black?logoColor=white">
     <img src="https://img.shields.io/badge/💬%2010-black?logoColor=white">
   </p>
 <!-- </DYNFIELD:ARTICLES_COUNT> -->
@@ -188,7 +188,7 @@
 
 <div align="center">
 <!-- <DYNFIELD:LAST_UPDATE> -->
-<p>last updated time: 15/03/2023 13:19:56</p>
+<p>last updated time: 18/03/2023 11:52:29</p>
 <!-- </DYNFIELD:LAST_UPDATE> -->
 </div>
 
@@ -313,6 +313,24 @@
   </tr>
   <tr>
     <td align="center" width="150">
+      <p>03-14-2023</p>
+      <img src="https://img.shields.io/badge/⭐%206-black?logoColor=white">
+      <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
+    </td>
+    <td align="center">      
+      <p><a name="007" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/007%20-%20Add%20an%20one%20way%20sync%20from%20ticktick%20and%20github%20to%20google%20calendar#TOC">Add an one way sync from ticktick and github to google calendar</a></p>
+      <a target="_blank" href="https://medium.com/@lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-8d239afcea25"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
+      <a target="_blank" href="https://dev.to/lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-3862"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
+      <a target="_blank" href="https://www.tabnews.com.br/lucasvtiradentes/sincroniza-seus-commits-do-github-no-google-calendar"><img src="https://img.shields.io/badge/Tabnews-gray?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAJFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGK9LJAAAAC3RSTlMApFvED999rD5RbZLJf4gAAACsSURBVFiF7Za7DoQwDASdFwnn///f04kmYMdytMVReOrsyBCBlygI3kYd2cWoavxs7KadMl/88R8FzAvDsZtnPm6C/TzznM/XVM+3m01Bnk4moXQMlp6CLgV9S5CkYKAC8xlcAut6XYKKCsj4QHwCYwSfgOjTi6DtCDTE+RCEIAQheJlAWW0ruipQlusK8VderPcF9aoz83qHCwZeceCShdc8vGgSXHWD4J98AbqPKw5ZfbUKAAAAAElFTkSuQmCC" alt="tabnews"></a>
+    </td>
+    <td align="left">Track your overall progress with google calendar.</td>
+    <td align="center">
+      <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
+      <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-%2320232a.svg?logo=npm&logoColor=%white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
       <p>03-12-2023</p>
       <img src="https://img.shields.io/badge/⭐%2010-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
@@ -325,23 +343,6 @@
     <td align="left">It is a tool for not spend precious time configuring your next project.</td>
     <td align="center">
       <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
-      <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-%2320232a.svg?logo=npm&logoColor=%white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <p>03-14-2023</p>
-      <img src="https://img.shields.io/badge/⭐%205-black?logoColor=white">
-      <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
-    </td>
-    <td align="center">      
-      <p><a name="007" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/007%20-%20Add%20an%20one%20way%20sync%20from%20ticktick%20and%20github%20to%20google%20calendar#TOC">Add an one way sync from ticktick and github to google calendar</a></p>
-      <a target="_blank" href="https://medium.com/@lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-8d239afcea25"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
-      <a target="_blank" href="https://dev.to/lucasvtiradentes/add-an-one-way-sync-from-ticktick-and-github-to-google-calendar-3862"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev"></a>
-    </td>
-    <td align="left">Track your overall progress with google calendar.</td>
-    <td align="center">
-      <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
       <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-%2320232a.svg?logo=npm&logoColor=%white"></a>
     </td>
   </tr>
