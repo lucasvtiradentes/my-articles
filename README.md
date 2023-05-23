@@ -4,8 +4,8 @@
 <!-- <DYNFIELD:ARTICLES_COUNT> -->
   <p>TUTORIALS (7/7)</p>
   <p>
-    <img src="https://img.shields.io/badge/⭐%2047-black?logoColor=white">
-    <img src="https://img.shields.io/badge/💬%209-black?logoColor=white">
+    <img src="https://img.shields.io/badge/⭐%2048-black?logoColor=white">
+    <img src="https://img.shields.io/badge/💬%2010-black?logoColor=white">
   </p>
 <!-- </DYNFIELD:ARTICLES_COUNT> -->
 </h3>
@@ -188,7 +188,7 @@
 
 <div align="center">
 <!-- <DYNFIELD:LAST_UPDATE> -->
-<p>last updated time: 21/05/2023 23:49:31</p>
+<p>last updated time: 22/05/2023 23:47:15</p>
 <!-- </DYNFIELD:LAST_UPDATE> -->
 </div>
 
@@ -296,8 +296,8 @@
   <tr>
     <td align="center" width="150">
       <p>03-09-2023</p>
-      <img src="https://img.shields.io/badge/⭐%206-black?logoColor=white">
-      <img src="https://img.shields.io/badge/💬%207-black?logoColor=white">
+      <img src="https://img.shields.io/badge/⭐%207-black?logoColor=white">
+      <img src="https://img.shields.io/badge/💬%208-black?logoColor=white">
     </td>
     <td align="center">      
       <p><a name="005" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/005%20-%20Easily%20modify%20your%20most%20used%20websites%20with%20this%20extension#TOC">Easily modify your most used websites with this extension</a></p>
