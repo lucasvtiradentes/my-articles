@@ -4,7 +4,7 @@
 <!-- <DYNFIELD:ARTICLES_COUNT> -->
   <p>TUTORIALS (7/7)</p>
   <p>
-    <img src="https://img.shields.io/badge/⭐%20229-black?logoColor=white">
+    <img src="https://img.shields.io/badge/⭐%20230-black?logoColor=white">
     <img src="https://img.shields.io/badge/💬%2012-black?logoColor=white">
   </p>
 <!-- </DYNFIELD:ARTICLES_COUNT> -->
@@ -188,7 +188,7 @@
 
 <div align="center">
 <!-- <DYNFIELD:LAST_UPDATE> -->
-<p>last updated time: 23/05/2023 23:48:22</p>
+<p>last updated time: 13/07/2023 00:03:12</p>
 <!-- </DYNFIELD:LAST_UPDATE> -->
 </div>
 
@@ -225,7 +225,7 @@
   <tr>
     <td align="center" width="150">
       <p>07-27-2020</p>
-      <img src="https://img.shields.io/badge/⭐%20104-black?logoColor=white">
+      <img src="https://img.shields.io/badge/⭐%20105-black?logoColor=white">
       <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
     </td>
     <td align="center">      
