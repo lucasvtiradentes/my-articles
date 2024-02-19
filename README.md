@@ -4,8 +4,8 @@
 <!-- <DYNFIELD:ARTICLES_COUNT> -->
   <p>TUTORIALS (7/7)</p>
   <p>
-    <img src="https://img.shields.io/badge/⭐%2022-black?logoColor=white">
-    <img src="https://img.shields.io/badge/💬%208-black?logoColor=white">
+    <img src="https://img.shields.io/badge/⭐%2018-black?logoColor=white">
+    <img src="https://img.shields.io/badge/💬%201-black?logoColor=white">
   </p>
 <!-- </DYNFIELD:ARTICLES_COUNT> -->
 </h3>
@@ -188,7 +188,7 @@
 
 <div align="center">
 <!-- <DYNFIELD:LAST_UPDATE> -->
-<p>last updated time: 08/12/2023 23:46:06</p>
+<p>last updated time: 18/02/2024 23:46:01</p>
 <!-- </DYNFIELD:LAST_UPDATE> -->
 </div>
 
@@ -296,8 +296,8 @@
   <tr>
     <td align="center" width="150">
       <p>03-09-2023</p>
-      <img src="https://img.shields.io/badge/⭐%203-black?logoColor=white">
-      <img src="https://img.shields.io/badge/💬%207-black?logoColor=white">
+      <img src="https://img.shields.io/badge/⭐%201-black?logoColor=white">
+      <img src="https://img.shields.io/badge/💬%201-black?logoColor=white">
     </td>
     <td align="center">      
       <p><a name="005" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/005%20-%20Easily%20modify%20your%20most%20used%20websites%20with%20this%20extension#TOC">Easily modify your most used websites with this extension</a></p>
@@ -314,8 +314,8 @@
   <tr>
     <td align="center" width="150">
       <p>03-14-2023</p>
-      <img src="https://img.shields.io/badge/⭐%205-black?logoColor=white">
-      <img src="https://img.shields.io/badge/💬%201-black?logoColor=white">
+      <img src="https://img.shields.io/badge/⭐%203-black?logoColor=white">
+      <img src="https://img.shields.io/badge/💬%200-black?logoColor=white">
     </td>
     <td align="center">      
       <p><a name="007" href="https://github.com/lucasvtiradentes/my-tutorials/tree/master/content/007%20-%20Add%20an%20one%20way%20sync%20from%20ticktick%20and%20github%20to%20google%20calendar#TOC">Add an one way sync from ticktick and github to google calendar</a></p>
